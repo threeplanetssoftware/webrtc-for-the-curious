@@ -1,6 +1,0 @@
----
-title: WebRTC For The Curious
-author: Many
-rights: Creative Commons Zero v1.0 Universal
-language: en-US
-...
